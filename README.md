@@ -1,5 +1,5 @@
 # GetPloot
-Get (many) plutia images from safebooru
+Get (many) plutia and histy images from safebooru
 
 # Usage
 ```bash
